@@ -24,6 +24,8 @@ export class AppComponent implements OnInit{
     this.items = [
       { label: 'Home', route: '/installation' }, 
       { label: 'Components' }, { label: 'Form' }, 
+      { label: 'InputText', route: '/inputtext' },
+      { label: 'InputText', route: '/inputtext' },
       { label: 'InputText', route: '/inputtext' }
     ];
   }
